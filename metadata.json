@@ -1,0 +1,6 @@
+{
+  "name": "JC Podologia",
+  "description": "Landing page premium para JC Podologia Especializada, liderada pela podóloga Jucilene Camara. Especialista em Pé Diabético e Tratamento de Feridas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
